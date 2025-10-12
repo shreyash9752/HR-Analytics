@@ -70,11 +70,8 @@ HR-Analytics-Dashboard/
 ---
 ### 🧩 Learning Outcomes
 
-Improved understanding of HR metrics and KPIs
-
-Experience in data cleaning and modeling using Power BI
-
-Skills in interactive dashboard design and storytelling
-
-Application of data-driven insights for real-world HR decisions
+- Improved understanding of HR metrics and KPIs
+- Experience in data cleaning and modeling using Power BI
+- Skills in interactive dashboard design and storytelling
+- Application of data-driven insights for real-world HR decisions
 
